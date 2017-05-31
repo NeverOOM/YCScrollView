@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MeScrollView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detail">图文详情</string>
+    <string name="pageBehavior" translatable="false" >com.pedaily.yc.mescrollview.first.lib.PageBehavior</string >
+    <string name="comment">评论列表</string>
+</resources>
